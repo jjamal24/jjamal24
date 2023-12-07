@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jjamal24
-- 👀 I’m interested in Data Science with POython and Power BI, Power System Analysis (Steady state and transiente) and Variable Renewable Energy Integration.
+- 👀 I’m interested in Data Science with Python and Power BI, Power System Analysis (Steady state and transiente) and Variable Renewable Energy Integration.
 - 🌱 I’m currently learning Matlab, Python and MS Power BI
 - 💞️ I’m looking to collaborate on Variable Renewable Energy Integration and Powerflow Analysis with Python.
 - 📫 How to reach me: jjamal@arene.org.mz _ or _ josmugh.jamal@gmail.com
